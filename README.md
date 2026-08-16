@@ -3,7 +3,7 @@
 Miguedrez is a procedural Common Lisp chess engine by Manuel Felipe Gamallo Rivero. The 2026 line adds a Universal Chess Interface (UCI) front end, Windows release builds, stricter chess-rule handling, and a deeper search core.
 
 > **Authorship**
-> - **Manuel Felipe Gamallo Rivero**: original Miguedrez 0.95 (`manuf_81 at yahoo.com`).
+> - **Manuel Felipe Gamallo Rivero**: Original Miguedrez 0.95 (`manuf_81 at yahoo.com`).
 > - Legacy Links: https://sourceforge.net/projects/miguedrez/; https://github.com/html/cl-chess/tree/master
 > - **Arthur Matheus**: 2026 UCI front end, Windows release work, rule fixes, search work, tests, and later 0.95 releases.
 
